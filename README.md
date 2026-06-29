@@ -62,7 +62,6 @@ research-compass/
 ├── Setup_File.sql               # Database, schema, tables, Cortex Search Service
 ├── Research_Compass.ipynb       # Full pipeline: ingestion, retrieval, HyDE, RAG
 ├── streamlit_app.py             # Streamlit front-end with upload UI and Q&A
-├── DEVELOPMENT_NOTES.md         # Engineering decisions and known limitations
 └── README.md
 ```
 
